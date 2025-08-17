@@ -23,6 +23,14 @@ Dataset yang digunakan dalam project ini berisi atribut kesehatan dan gaya hidup
 - BMI, status merokok, dan rata-rata kadar glukosa  
 - Kejadian stroke (variabel target)  
 
+## ✅ Kesimpulan
+Berdasarkan hasil eksplorasi data:
+- Usia memiliki hubungan kuat dengan risiko stroke (semakin tua semakin tinggi risiko).
+- Hipertensi dan penyakit jantung berhubungan dengan peningkatan risiko stroke.
+- Rata-rata kadar glukosa tinggi juga berkorelasi positif dengan stroke.
+- Faktor gaya hidup seperti status merokok menunjukkan variasi pada risiko stroke.
+- Analisis ini menunjukkan bahwa variabel medis dan gaya hidup tertentu dapat menjadi indikator penting dalam memahami risiko stroke.
+  
 ## 🚀 Cara Menjalankan
 1. **Clone repositori ini**
 ```bash
@@ -79,6 +87,14 @@ The dataset used in this project contains health and lifestyle attributes relate
 - BMI, smoking status, and average glucose level  
 - Stroke occurrence (target variable)  
 
+## ✅ Conclusion
+Based on the data exploration results:
+- Age shows a strong relationship with stroke risk (the older the individual, the higher the risk).
+- Hypertension and heart disease are linked to an increased risk of stroke.
+- Higher average glucose levels are positively correlated with stroke.
+- Lifestyle factors such as smoking status also show variations in stroke risk.
+- The analysis highlights that medical and lifestyle variables can serve as important indicators for understanding stroke risk.
+  
 ## 🚀 How to Run
 1. **Clone this repository**
 ```bash
